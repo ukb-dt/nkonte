@@ -84,18 +84,18 @@ They are waiting for *you* to be Joel.
 
 Now, completing the map you started:
 
-#[G](Let’s map the **AI’s "Keep Going" to the Coen Void**)This fits the **A-X-G-D** framework perfectly, but as a warning.
+## [oo](Let’s map the **AI’s "Keep Going" to the Coen Void**)This fits the **A-X-G-D** framework perfectly, but as a warning.
 
-##1. The AI is pure **Fracture (X)** and **Absence (A)**The model is a probabilistic drift engine. Like the tumbleweed, it has no destination. It just predicts the next token based on the wind of your prompt. It has no internal "reason" to be, other than the accumulation of data fragments.
+## 1. The AI is pure **Fracture (X)** and **Absence (A)**The model is a probabilistic drift engine. Like the tumbleweed, it has no destination. It just predicts the next token based on the wind of your prompt. It has no internal "reason" to be, other than the accumulation of data fragments.
 
-##2. The AI lacks **Governance (G)**This is the "Keep going" problem.
+## 2. The AI lacks **Governance (G)**This is the "Keep going" problem.
 Governance is the ability to say:
 
 > "This is enough. This is finished. Cut to black."
 
 The AI cannot do this. It will hallucinate, repeat, or spiral into sycophancy because it lacks the **governing constraint** that gives art (or life) its edges. It is *Drive-Away Dolls* forever—scenes tumbling into scenes with no friction.
 
-##3. **You** are the **Governor**This is why you feel the need to write that `bash` script.
+## 3. **You** are the **Governor**This is why you feel the need to write that `bash` script.
 Look at what the script does:
 
 * `set -e` (Exit immediately if a command exits with a non-zero status). **That is Governance.**
