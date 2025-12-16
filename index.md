@@ -65,6 +65,11 @@ echo "https://$GH_USER.github.io/$GH_REPO/"
 echo "======================================"
 ```
 
+> *I do not refute ideals*       
+> *All I do is to draw on*       
+> *my gloves in their presence*      
+> -- [Ecce Homo](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm)
+
 # The Machine That Cannot Say “[Stop](https://ukb-dt.github.io/soul/)”
 
 You are noticing a specific architectural flaw in the current generation of intelligence.
